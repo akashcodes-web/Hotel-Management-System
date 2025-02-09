@@ -24,5 +24,5 @@ It allows users to **view available rooms, book a room, cancel a booking, and sa
 ### 🔹 Installation & Running the Program
 **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/hotel-reservation-system.git
+   git clone https://github.com/akashcodes-web/Hotel-Management-System.git
    cd hotel-reservation-system
